@@ -1,0 +1,15 @@
+adminUser:
+  password: vault:acmecluster2/adminUser:password
+  username: admin
+docker:
+  email: vamsikdevops2019@gmail.com
+  password: vault:acmecluster2/docker:password
+  url: https://hub.docker.com/repository/docker/vamsikrishnak123/test
+  username: vamsikrishnak123
+enableDocker: true
+pipelineUser:
+  email: vamsik_rmkcse2003@yahoo.co.in
+  token: vault:acmecluster2/pipelineUser:token
+  username: vamsikrishnak123
+prow:
+  hmacToken: vault:acmecluster2/prow:hmacToken
