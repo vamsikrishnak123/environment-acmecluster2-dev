@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: vamsikrishnak123
+  repo: angular
+  url: https://github.com/vamsikrishnak123/angular.git
+  version: ""
+  versionURL: ""
