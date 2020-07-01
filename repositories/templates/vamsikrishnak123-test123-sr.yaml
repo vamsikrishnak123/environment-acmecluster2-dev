@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: vamsikrishnak123
+    provider: github
+    repository: test123
+  name: vamsikrishnak123-test123
+spec:
+  description: Imported application for vamsikrishnak123/test123
+  httpCloneURL: https://github.com/vamsikrishnak123/test123.git
+  org: vamsikrishnak123
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test123
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/vamsikrishnak123/test123.git
