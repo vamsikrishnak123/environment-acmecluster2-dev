@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/vamsikrishnak123/angular.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: vamsikrishnak123
+  repo: test123
+  url: https://github.com/vamsikrishnak123/test123.git
+  version: ""
+  versionURL: ""
